@@ -1,0 +1,14 @@
+George Bluth, Sr.|Male|Fugitive|2,4|Brother, Father-in-Law|6|Husband
+Oscar Bluth|Male||3|Uncle|1|Brother
+George Oscar "GOB" Bluth|Male|Magician|8|Brother|2|Uncle
+Tobias Funke|Male|Unemployed Actor|5|Husband|1,5|Father-in-Law, Wife
+Lindsay Funke|Female|Activist|4|Wife|4, 8|Husband, Sister
+Lucille Bluth|Female||1|husband|7|Son
+Byron Buster Bluth|Male|Seal Victim|6,8|Son,Brother|8|Brother
+Michael Bluth|Male|Bluth Company CEO|5,7|Sister,Brother|3,7,9|Brother,Brother,Son
+George Michael Bluth|Male|Student|8|Son|10,11|Mother,Cousin
+Tracy Bluth|Female||9|Mother|11|Unknown
+Mae “Maeby” Fünke|Female|Student|9,10,12|Cousin,Unknown,Alter Ego|12|Unknown
+Surely Woolfbeek|Female|Imaginary Character|11,13|Unknown,Unknown|11,14|Alter Ego,Unknown
+Steve Holt|Male|Student|||12,14|Unknown,Mother
+Eve Holt|Female||12,13|Unknown,Son|| 
