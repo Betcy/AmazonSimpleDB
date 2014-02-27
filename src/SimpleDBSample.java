@@ -5,9 +5,12 @@
  * Spring 2013
  * Course Project - Working with SimpleDB
  * 
+ * Author: 
+ * Jeanne Victor
  * Brianna Shade
- * bshade@pdx.edu
- * 
+ * Hisham benotman
+ * Pallavi Nagothi
+ *
  * Preliminary code structure provided by Amazon's sample SimpleDB program
  */
 import java.io.BufferedReader;
